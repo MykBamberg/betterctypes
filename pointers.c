@@ -1,5 +1,6 @@
-#include "betterctypes.h"
 #include <stdio.h>
+
+#include "betterctypes.h"
 
 int main(void) {
     {

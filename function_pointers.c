@@ -1,7 +1,8 @@
-#include "betterctypes.h"
 #include <stdint.h>
 #include <time.h>
 #include <stdio.h>
+
+#include "betterctypes.h"
 
 enum parity {
     EVEN,
